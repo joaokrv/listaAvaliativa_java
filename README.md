@@ -1,2 +1,2 @@
-# listaAvaliativa_java
- Atividade Avaliativa em Java. Professor Montanha - Faculdade UniBH
+<h1>Lista avaliativa Java</h1>
+ <p>Exercícios sobre estrutura de repetição em java passados pelo professor Alexandre "Montanha", faculdade UniBH.</p>
